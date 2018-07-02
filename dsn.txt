@@ -1,0 +1,1 @@
+mysql:dbname=study;host=localhost;
